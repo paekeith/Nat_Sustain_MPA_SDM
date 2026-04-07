@@ -1,0 +1,9 @@
+Group,Statistic,All MPAs,Strong,Weak,Fully,Highly,Lightly,Minimally,Incompatible,Unclassified
+Threatened,Median,29.5,0.4,25.1,0.0,0.4,4.0,12.5,5.5,2.2
+Threatened,Q95,44.7,1.7,41.6,0.2,1.6,10.5,24.2,20.7,9.1
+Threatened,Min,1.4,0.0,1.4,0.0,0.0,0.0,0.5,0.0,0.1
+Threatened,Max,76.7,2.5,69.5,0.4,2.3,16.7,53.9,50.7,18.3
+Habitat-formers,Median,26.4,0.4,21.5,0.0,0.4,2.7,13.3,3.1,2.5
+Habitat-formers,Q95,44.5,1.6,38.0,0.1,1.5,10.3,21.3,18.7,9.9
+Habitat-formers,Min,1.1,0.0,0.9,0.0,0.0,0.1,0.0,0.0,0.0
+Habitat-formers,Max,64.9,2.7,63.6,1.9,2.7,14.5,29.1,31.5,21.5
