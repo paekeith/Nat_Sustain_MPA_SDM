@@ -1,3 +1,4 @@
 This repository contains all of the code associated with the manuscript by Eskuche-Keith et al. titled "European Marine Protected Areas are well-placed and climate-resilient, but weakly protected".
 
 Data could not be uploaded due to size constraints, but are available at: 
+SDM layers can be downloaded from https://github.com/iobis/mpaeu_sdm
